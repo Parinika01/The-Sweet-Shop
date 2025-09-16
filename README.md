@@ -1,2 +1,2 @@
-# The sweet shop
+# The Sweet Shop
 
