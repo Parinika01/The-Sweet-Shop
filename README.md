@@ -1,2 +1,2 @@
 # The Sweet Shop
-
+This project is a simple recipe webpage created using HTML and CSS, where I’ve written and showcased some delicious sweet recipes like cake and rasmalai. The website is designed with a clean and attractive layout, making it easy to read and follow the recipes. It also serves as a beginner-friendly project to practice basic web development skills while combining creativity with coding.
